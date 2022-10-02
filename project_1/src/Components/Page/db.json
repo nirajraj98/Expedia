@@ -1,0 +1,64 @@
+[
+    {   "id":1,
+        "img":"https://images.trvl-media.com/hotels/83000000/82970000/82966000/82965942/7706b7eb.jpg?impolicy=resizecrop&rw=455&ra=fit",
+        "hotel_name":"Hotel Mili Digha",
+        "location":"Delhi",
+        "niraj":"Fully Refundable",
+        "Review":"Review-5.4",
+        "bagdge":"Member Price Aviable",
+        
+        "price":10000
+
+
+    },
+    {    "id":2,
+        "img":"https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/16000000/15440000/15439200/15439133/71b7e1a3_b.jpg",
+        "hotel_name":"Hotel Mili Digha",
+        "location":"Delhi",
+        "Review":"Review-5.4",
+        "bagdge":"Member Price Aviable",
+        "price":10000,
+        "niraj":"Fully Refundable"
+    },
+    {    "id":3,
+    "img":"https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/700000/697000/696977/52c154f9_b.jpg",
+    "hotel_name":"Hotel Mili Digha",
+    "location":"Delhi",
+    "Review":"Review-5.4",
+    "bagdge":"Member Price Aviable",
+    "price":106,
+    "niraj":"Fully Refundable"
+},
+{    "id":4,
+"img":"https://images.trvl-media.com/hotels/16000000/15440000/15439200/15439133/d952569d.jpg?impolicy=resizecrop&rw=455&ra=fit",
+"hotel_name":"Hotel Mili Digha",
+"location":"Delhi",
+"Review":"Review-5.4",
+"bagdge":"Member Price Aviable",
+"price":90,
+"niraj":"Fully Refundable"
+},
+{    "id":5,
+"img":"https://images.trvl-media.com/hotels/31000000/30790000/30783800/30783748/925d2afa.jpg?impolicy=resizecrop&rw=455&ra=fit",
+"hotel_name":"Hotel Mili Digha",
+"location":"Delhi",
+"Review":"Review-5.4",
+"bagdge":"Member Price Aviable",
+"price":85,
+"niraj":"Fully Refundable"
+},
+{    "id":5,
+"img":"https://images.trvl-media.com/hotels/47000000/46210000/46205200/46205118/1583475f.jpg?impolicy=resizecrop&rw=455&ra=fit",
+"hotel_name":"Hotel Mili Digha",
+"location":"Delhi",
+"Review":"Review-5.4",
+"bagdge":"Member Price Aviable",
+"price":50,
+"niraj":"Fully Refundable"
+}
+
+
+
+
+   
+]
